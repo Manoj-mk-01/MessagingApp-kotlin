@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22509613037109374" />
+        <entry key="..\:/Users/VENKAT/AndroidStudioProjects/MessagingApp/app/src/main/res/drawable/btn_background.xml" value="0.196" />
+        <entry key="..\:/Users/VENKAT/AndroidStudioProjects/MessagingApp/app/src/main/res/drawable/edt_background.xml" value="0.195" />
+        <entry key="..\:/Users/VENKAT/AndroidStudioProjects/MessagingApp/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/VENKAT/AndroidStudioProjects/MessagingApp/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/VENKAT/AndroidStudioProjects/MessagingApp/app/src/main/res/layout/activity_sign_up.xml" value="0.18802083333333333" />
       </map>
     </option>
   </component>
