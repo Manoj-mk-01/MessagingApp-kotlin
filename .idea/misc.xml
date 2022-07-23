@@ -5,9 +5,13 @@
       <map>
         <entry key="..\:/Users/VENKAT/AndroidStudioProjects/MessagingApp/app/src/main/res/drawable/btn_background.xml" value="0.196" />
         <entry key="..\:/Users/VENKAT/AndroidStudioProjects/MessagingApp/app/src/main/res/drawable/edt_background.xml" value="0.195" />
+        <entry key="..\:/Users/VENKAT/AndroidStudioProjects/MessagingApp/app/src/main/res/drawable/msg_box_background.xml" value="0.249" />
+        <entry key="..\:/Users/VENKAT/AndroidStudioProjects/MessagingApp/app/src/main/res/layout/activity_chat.xml" value="0.33" />
         <entry key="..\:/Users/VENKAT/AndroidStudioProjects/MessagingApp/app/src/main/res/layout/activity_login.xml" value="0.22" />
         <entry key="..\:/Users/VENKAT/AndroidStudioProjects/MessagingApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/VENKAT/AndroidStudioProjects/MessagingApp/app/src/main/res/layout/activity_sign_up.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/VENKAT/AndroidStudioProjects/MessagingApp/app/src/main/res/layout/receive.xml" value="0.24273504273504273" />
+        <entry key="..\:/Users/VENKAT/AndroidStudioProjects/MessagingApp/app/src/main/res/layout/sent.xml" value="0.2947916666666667" />
         <entry key="..\:/Users/VENKAT/AndroidStudioProjects/MessagingApp/app/src/main/res/layout/user_layout.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/VENKAT/AndroidStudioProjects/MessagingApp/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
       </map>
